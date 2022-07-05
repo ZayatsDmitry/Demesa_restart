@@ -1,0 +1,4 @@
+#Fri Jul 01 13:01:06 MSK 2022
+base.0=/Users/user/Работа/Demesa/restart_demesa/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
